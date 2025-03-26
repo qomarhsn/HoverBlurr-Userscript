@@ -11,10 +11,10 @@
 // @grant        GM_getValue
 // @grant        GM_addStyle
 // @grant        GM_addValueChangeListener
-// @homepageURL  https://github.com/qomarhsn/Userscript-Collection
-// @supportURL   https://github.com/qomarhsn/Userscript-Collection/issues
-// @updateURL    https://github.com/qomarhsn/Userscript-Collection/raw/main/hoverblurr.user.js
-// @downloadURL  https://github.com/qomarhsn/Userscript-Collection/raw/main/hoverblurr.user.js
+// @homepageURL  https://github.com/qomarhsn/HoverBlurr-Userscript
+// @supportURL   https://github.com/qomarhsn/HoverBlurr-Userscript/issues
+// @updateURL    https://github.com/qomarhsn/HoverBlurr-Userscript/raw/main/hoverblurr.user.js
+// @downloadURL  https://github.com/qomarhsn/HoverBlurr-Userscript/raw/main/hoverblurr.user.js
 // ==/UserScript==
 
 (function() {
